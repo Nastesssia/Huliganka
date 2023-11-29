@@ -1,0 +1,7 @@
+C:\Users\User12\source\repos\AbstractFactory_kab\AbstractFactory_kab\bin\Debug\AbstractFactory_kab.exe.config
+C:\Users\User12\source\repos\AbstractFactory_kab\AbstractFactory_kab\bin\Debug\AbstractFactory_kab.exe
+C:\Users\User12\source\repos\AbstractFactory_kab\AbstractFactory_kab\bin\Debug\AbstractFactory_kab.pdb
+C:\Users\User12\source\repos\AbstractFactory_kab\AbstractFactory_kab\obj\Debug\AbstractFactory_kab.csproj.AssemblyReference.cache
+C:\Users\User12\source\repos\AbstractFactory_kab\AbstractFactory_kab\obj\Debug\AbstractFactory_kab.csproj.CoreCompileInputs.cache
+C:\Users\User12\source\repos\AbstractFactory_kab\AbstractFactory_kab\obj\Debug\AbstractFactory_kab.exe
+C:\Users\User12\source\repos\AbstractFactory_kab\AbstractFactory_kab\obj\Debug\AbstractFactory_kab.pdb
